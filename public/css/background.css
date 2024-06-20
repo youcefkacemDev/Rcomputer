@@ -1,0 +1,54 @@
+.image {
+    background-image: linear-gradient(
+        to right,
+        hsl(0, 0%, 100%),
+        hsl(0, 32%, 85%)
+    );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navigation {
+    height: 80px;
+    padding: 3px;
+    background-color: green;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+html{
+    animation: trans_form_to 0.75s;
+}
+
+@keyframes trans_form_to{
+    from{
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+
+    to{
+        opacity: 1;
+        transform: translateX(100);
+    }
+}
+
+.sidebar-color {
+    background-image: linear-gradient(
+        to right,
+        rgb(154, 38, 38),
+        rgb(206, 18, 18),
+        rgb(135, 44, 44)
+    );
+}
+
+.links {
+    text-decoration: none;
+}
+
+.card-content:hover {
+    background-color: red;
+}

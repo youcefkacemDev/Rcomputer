@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient(
+        to right,
+        hsl(0, 0%, 100%),
+        hsl(0, 49%, 83%)
+    );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+html{
+    animation: trans_form_to 0.75s;
+}
+
+@keyframes trans_form_to{
+    from{
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+
+    to{
+        opacity: 1;
+        transform: translateY(100);
+    }
+}
+
+.navigation {
+    height: 80px;
+    padding: 3px;
+    background-color: green;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.input_width
+{
+    width: 30rem;
+}
+
