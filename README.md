@@ -3,7 +3,7 @@
         Class diagrame
     </h1>
     <div>
-        <ima src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/65654da8-da0f-4ddc-a1fd-d96f31589b07">
+       ![Drawing1](https://github.com/youcefkacemDev/Rcomputer/assets/152568714/f2048468-10f3-4b03-87e6-be02c70ed31a)
     </div>
 </div>
 
