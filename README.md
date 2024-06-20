@@ -4,68 +4,89 @@
 <h1>use case diagram : </h1>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/e695dcd0-ee67-4a7c-95c1-e6d5de0293ff">
 
-<h1>the login page :</h1>
+<hr>
+
+<h1>authentication :</h1>
+<h4>the login page :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/a649bc9a-7ca0-4173-a25d-fc55ff26215b">
-
-<h1>log out :</h1>
+<h4>the logout flach message :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/08f360fb-3c61-4c6b-92e4-55f2aac84530">
-
-<h3>the dashboard page :</h3>
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/8a8c9457-7b40-4217-b855-2ec781e365fc">
-
-<h1>the register page :</h1>
+<h4>the register page :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/ddc17371-f342-4cd6-9cfe-9f84e245f9ba">
 
-<h1>add brand page:</h1>
+<hr>
+
+<h1>the dashboard page :</h1>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/8a8c9457-7b40-4217-b855-2ec781e365fc">
+
+<hr>
+
+<h1>brand :</h1>
+<h4>add brand :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/125a22f8-0400-4d9e-ad39-28f12f8e78fb">
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/26d5a86a-590c-487e-a9ad-722bca407e32">
-
-<h1>add category page :</h1>
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/cc51ff01-14fb-4efa-a51e-e054abf6b3b6">
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/f265e125-bcfa-4ae2-a63d-743c0633ca57">
-
-<h1>add product page :</h1>
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/a648e9d2-8f3b-41a6-a34d-654e2a727187">
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/b8d1562d-195d-43e9-982f-776d37f48fc7">
-
-<h1>edit product page :</h1>
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/e70d50cb-be27-45c7-853a-f279fa486b0c">
-
-<h1>edit brnd page :</h1>
+<h4>edit brand :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/82e7d753-25a5-4c9b-872c-9d5bd8ad6619">
 
-<h1>edit category page :</h1>
+<h4>delete brand :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/ef69f4e9-9507-418c-8464-c87569882ef0">
+
+<hr>
+
+<h1>category :</h1>
+<h4>add category :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/cc51ff01-14fb-4efa-a51e-e054abf6b3b6">
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/f265e125-bcfa-4ae2-a63d-743c0633ca57">
+<h4>edit category :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/4f462bcc-5b56-4e54-9bdb-67e0388489a8">
+<h4>delete category :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/31e5829d-9f6b-41bd-a8db-2b86ad5b15d2">
 
-<h1>admin profile page :</h1>
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/ca64ece8-e575-49f3-a4fa-54ecf90a08b1">
+<hr>
 
-<h1>edit admin prfile :</h1>
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/397c1bf1-3912-49d7-9301-f89316ae3663">
+<h1>product :</h1>
+<h4>add product :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/a648e9d2-8f3b-41a6-a34d-654e2a727187">
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/b8d1562d-195d-43e9-982f-776d37f48fc7">
+<h4>edit product :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/e70d50cb-be27-45c7-853a-f279fa486b0c">
+<h4>delete product :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/360e7322-7450-4474-9fd3-92d2296bac5c">
 
-<h1>order page :</h1>
+<hr>
+
+<h1>order : </h1>
+<h4>order page :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/8262371d-76c1-45a3-9826-7408fc092dc3">
-<h3>show the orders of the client :</h3>
+<h4>show the orders of the client :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/46e80cc5-ac5f-4da6-ae5b-4d2454747391">
-<h3>delete the order :</h3>
+<h4>delete the order :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/fd0d97ed-3a27-43f6-9455-b2456e7b7f9e">
 
+<hr>
+
+<h1>profile : </h1>
+<h4>admin profile page :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/ca64ece8-e575-49f3-a4fa-54ecf90a08b1">
+<h4>edit admin prfile :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/397c1bf1-3912-49d7-9301-f89316ae3663">
+
+<hr>
+
 <h1>messages :</h1>
-<h3>messages page :</h3>
+<h4>messages page :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/3dd8a8b3-40ef-43be-b714-533b08b6d138">
-<h3>reply to message :</h3>
+<h4>reply to message :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/0b02a82a-dfd0-4b7f-b721-aea5b087017c">
-<h3>seccess message send :</h3>
+<h4>seccess message send :</h4>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/c929689e-ad84-40c0-9e5e-547197dcdc15">
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/bb477c4b-46d7-4ad5-b155-497c8eacfe48">
 
-<h1>client page : </h1>
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/e273ba36-aadc-4937-8337-23d0feaa8a07">
+<hr>
 
-<h1>delete category , brand , and product :</h1>
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/31e5829d-9f6b-41bd-a8db-2b86ad5b15d2">
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/ef69f4e9-9507-418c-8464-c87569882ef0">
-<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/360e7322-7450-4474-9fd3-92d2296bac5c">
+<h1>client : </h1>
+<h4>the client page :</h4>
+<img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/e273ba36-aadc-4937-8337-23d0feaa8a07">
 
 
 
