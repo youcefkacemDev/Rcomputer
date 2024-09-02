@@ -1,3 +1,17 @@
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fkacem-youcef-320091249%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1zg5t8-ZjdklsLgCWRzc3_kiSuOfdEeCbZ20ZiU-KbUkuDOVgmDmp_gRA_aem_R1xIBIS0kSS8Yr-33gBQrQ&h=AT1a1oGP-Ugiivdv-zMwFsiWBGWVfbpD1OkIvyEtYVLeyBlUJsvv1um3WaUi7LlG_ibQXhllvunxZ4kpjg6nlBwDPzJQYm8Uifi7gGlhBrBqlvvmB44YO_CczMu3NAG3pukkIQ) 
+
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=youcefkacemDev&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=youcefkacemDev&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=youcefkacemDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h1>class diagram :</h1>
 <img src="https://github.com/youcefkacemDev/Rcomputer/assets/152568714/a11b80e7-046d-404c-a05a-0f4f4cc87a13">
 
