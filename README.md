@@ -8,8 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=youcefkacemDev&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=youcefkacemDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1>class diagram :</h1>
